@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 70 40">
+  <!-- Generator: Adobe Illustrator 29.8.3, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#_未命名漸層);
+      }
+
+      .st1 {
+        fill: url(#_未命名漸層_18);
+        stroke: #8c8c8c;
+        stroke-miterlimit: 10;
+        stroke-width: .2px;
+      }
+
+      .st2 {
+        fill: url(#_未命名漸層_4);
+        mix-blend-mode: screen;
+        opacity: .8;
+      }
+
+      .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st4 {
+        fill: #22fbf5;
+      }
+
+      .st5 {
+        fill: url(#_未命名漸層_82);
+      }
+
+      .st6 {
+        fill: url(#_未命名漸層_3);
+      }
+
+      .st7 {
+        fill: #547d9b;
+      }
+
+      .st8 {
+        fill: none;
+        stroke: #ffb049;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+    <radialGradient id="_未命名漸層" data-name="未命名漸層" cx="3.1" cy="30" fx="3.1" fy="30" r="20.7" gradientTransform="translate(0 42) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#085277"/>
+      <stop offset="1" stop-color="#5e90aa"/>
+    </radialGradient>
+    <radialGradient id="_未命名漸層_18" data-name="未命名漸層 18" cx="50.5" cy="52.2" fx="50.5" fy="52.2" r="55.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8d9dd"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="_未命名漸層_3" data-name="未命名漸層 3" cx="40" cy="28.2" fx="40" fy="28.2" r="16.1" gradientTransform="translate(0 42) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#085277"/>
+      <stop offset="1" stop-color="#5e90aa"/>
+    </radialGradient>
+    <linearGradient id="_未命名漸層_82" data-name="未命名漸層 82" x1="7.6" y1="18.4" x2="35.3" y2="18.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2553cd"/>
+      <stop offset=".5" stop-color="#003089"/>
+    </linearGradient>
+    <linearGradient id="_未命名漸層_4" data-name="未命名漸層 4" x1="-4117.7" y1="35.3" x2="-4125.4" y2="20.2" gradientTransform="translate(-4101.2 42) rotate(-180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0" stop-color="#fafafa"/>
+      <stop offset="0" stop-color="#c0c2c4"/>
+      <stop offset=".2" stop-color="#8d9195"/>
+      <stop offset=".4" stop-color="#61676c"/>
+      <stop offset=".5" stop-color="#3e454c"/>
+      <stop offset=".6" stop-color="#232a32"/>
+      <stop offset=".7" stop-color="#0f1720"/>
+      <stop offset=".9" stop-color="#030c15"/>
+      <stop offset="1" stop-color="#000912"/>
+    </linearGradient>
+  </defs>
+  <g class="st3">
+    <g id="_圖層_1" data-name="圖層_1">
+      <path class="st7" d="M5.3,13.6c0-.3-1.9-.2-2.6.6-.7.8-2.8,5.5-.2,10,.7,1,2.1,1.3,3.2,1.2.6-.6.6-9.7-.4-11.8Z"/>
+      <path class="st0" d="M3,14c-1.3,4.3,0,10,.3,11,.7.4,1.6.5,2.3.4.6-.6.6-9.7-.4-11.8,0-.2-1.5-.2-2.3.4h.1Z"/>
+      <circle class="st1" cx="22.7" cy="19.9" r="18.8"/>
+      <path class="st8" d="M53.6,26.4l11.5-11.5M53.6,14.9h11.5v11.5"/>
+      <path class="st7" d="M39.8,13.6c0-.3,1.9-.2,2.6.6.7.8,2.8,5.5.2,10-.7,1-2.1,1.3-3.2,1.2-.6-.6-.6-9.7.4-11.8Z"/>
+      <path class="st6" d="M39.8,13.6c0-.2,1.3-.2,2.1.2-1.2.4-1.5,9.9-.4,11.3-.7.3-1.4.3-2,.2-.6-.6-.6-9.7.4-11.8h0Z"/>
+      <path class="st5" d="M33.3,10.4c.8.8,1.8,2.4,2,7.1,0,3.5-.2,8.3-1.7,9.4-1.4,1-6.4,1.4-12.2,1.4s-12.3-1-12.8-2.4c-1.4-3.6-1.6-12.8.8-14.8,1-.8,4.1-2.8,11.2-2.7,6.6,0,11.9,1.2,12.8,2h0Z"/>
+      <path class="st2" d="M9.4,11.1c1-.8,4.1-2.8,11.2-2.7,6.6,0,11.9,1.2,12.8,2,.5,1.2,1.8,2.4,2,7.1v1.1c-5.9-1.5-22-2.8-27.8.1,0-3.3.5-6.6,1.9-7.7h-.1Z"/>
+      <ellipse class="st4" cx="26.6" cy="17.8" rx="3" ry="2.3" transform="translate(7.4 43.4) rotate(-86.9)"/>
+      <ellipse class="st4" cx="14.8" cy="17.7" rx="2.3" ry="3" transform="translate(-.5 .5) rotate(-1.8)"/>
+    </g>
+  </g>
+</svg>
